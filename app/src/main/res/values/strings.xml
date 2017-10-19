@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppBanHang</string>
+    <string name="trangchu">Trang Chủ</string>
+    <string name="title_activity_lien_he">Map</string>
+</resources>
