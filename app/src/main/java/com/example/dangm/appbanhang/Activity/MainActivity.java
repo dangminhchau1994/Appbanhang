@@ -68,6 +68,7 @@ public class MainActivity extends AppCompatActivity {
 
         //Check github commit
         // Seconde commit
+        //qweqweqweqwe
         requestQueue = Volley.newRequestQueue(getApplicationContext());
         if(CheckConnection.haveNetworkConnection(getApplicationContext())) {
             actionBar();
