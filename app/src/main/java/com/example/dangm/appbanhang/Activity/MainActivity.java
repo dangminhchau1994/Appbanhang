@@ -66,6 +66,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         init();
 
+        //Check github commit
         requestQueue = Volley.newRequestQueue(getApplicationContext());
         if(CheckConnection.haveNetworkConnection(getApplicationContext())) {
             actionBar();
